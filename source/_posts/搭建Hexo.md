@@ -1,7 +1,8 @@
 ---
 title: 搭建Hexo
 date: 2022-11-16 22:59:30
-tags: 软件安装与配置
+tags: hexo
+categories: 软件安装与配置
 ---
 
 ## 前言
